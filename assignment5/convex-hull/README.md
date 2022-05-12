@@ -1,3 +1,7 @@
+Name: Sachin Grover 
+
+Roll No: CS21m518
+
 Given a set of points, a Convex hull is the smallest convex polygon containing
 all the given points.
 
