@@ -1,3 +1,7 @@
+Name: Sachin Grover 
+
+Roll No: CS21m518
+
 To Compile:
 
 g++ prism.cpp -o prism
