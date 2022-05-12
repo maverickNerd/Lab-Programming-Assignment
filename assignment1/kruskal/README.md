@@ -1,3 +1,6 @@
+Name: Sachin Grover
+Roll No: CS21m518
+
 To Compile:
 
 g++ kruskal.cpp -o kruskal
